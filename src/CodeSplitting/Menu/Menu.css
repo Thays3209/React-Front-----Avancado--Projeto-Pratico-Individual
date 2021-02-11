@@ -1,0 +1,20 @@
+
+/* Menu */
+.navbar-dark {
+    background-color: rgb(236, 28, 36); 
+}
+
+.navbar-brand {
+    width: 100px;
+}
+
+.nav-item {
+    display: flex;
+    justify-content: center;
+}
+
+.active {
+    border-bottom: 2px solid rgba(255, 255, 245, .9);
+}
+
+/* Fim Menu */
